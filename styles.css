@@ -84,7 +84,7 @@ h2 {
   border: none;
 }
 
-.dropdown:hover, .dropdown-content, .dropdown:active {
+.dropdown:hover .dropdown-content {
   display: block;
 }
 
