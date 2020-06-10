@@ -11,6 +11,10 @@ header {
       background-size: auto 350px;
 }
 
+footer {
+      bottom: 0;
+}
+
 
 h1 {
   color: blue;
