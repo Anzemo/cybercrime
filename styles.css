@@ -161,11 +161,12 @@ input[type=text], select, textarea {
 }
 
 .container button {
-  background-color: red;
-  border-color: black;
-  font-size: 150%;
+  background-color: orange;
+  border-color: white;
+  font-size: 100%;
   float: right;
-  margin-top: 9%;
+  margin-top: 15%;
+  margin-right: 10px;
 }
 
 .column {
