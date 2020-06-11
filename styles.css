@@ -13,6 +13,7 @@ header {
 
 footer {
       position: relative;
+      height: 200px;
       margin-top: -200;
       margin-left: auto;
       margin-right: auto;
