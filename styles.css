@@ -141,8 +141,8 @@ h2 {
 
 .besedilo img .besedilo-boj img {
   margin-top: 25px;
-  width: 258;
-  height: 196;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 
