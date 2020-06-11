@@ -12,8 +12,8 @@ header {
 }
 
 footer {
-      left-margin: 50%;
-      right-margin: auto;
+      margin-left: auto;
+      margin-right: auto;
       width: 950px;
 
 }
@@ -147,8 +147,6 @@ input[type=text], select, textarea {
 }
 
 .container {
-  margin-left: auto;
-  margin-right: auto;
   border-radius: 5px;
   background-color: #555;
   padding: 10px;
