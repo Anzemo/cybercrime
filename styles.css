@@ -131,6 +131,10 @@ h2 {
   margin-bottom: 15px;
 }
 
+.besedilo a{
+  font-color: white;
+}
+
 .besedilo p {
   margin-right: 15px;
   margin-right: 20px;
