@@ -13,8 +13,8 @@ header {
 
 footer {
       position: relative;
-      height: 150px;
-      margin-top: -150;
+      height: 100px;
+      margin-top: -100;
       margin-left: auto;
       margin-right: auto;
       width: 75%;
@@ -131,8 +131,8 @@ h2 {
   margin-bottom: 15px;
 }
 
-.besedilo a{
-  font-color: white;
+.besedilo a {
+  color: white;
 }
 
 .besedilo p {
