@@ -41,7 +41,7 @@ h2 {
 }
 
 .navbar a.active {
-  background-color: #4CAF50;
+  background-color: #ffc966;
 }
 
 .navbar a {
@@ -139,9 +139,6 @@ h2 {
   margin-top: 25px;
 }
 
-.space a {
-  color: green;
-}
 
 input[type=text], select, textarea {
   width: 100%;
