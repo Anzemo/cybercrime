@@ -192,7 +192,7 @@ input[type=text], select, textarea {
 
 }
 .tema textarea {
-  width: 180%;
+  width: auto;
   height: 90px;
 }
 
