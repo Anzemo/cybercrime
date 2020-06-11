@@ -15,7 +15,9 @@ footer {
       position: absolute;
       margin-top: auto;
       bottom: 0;
-      width: 100%;
+      left-margin: auto;
+      right-margin: auto;
+      width: 75%;
 
 }
 
